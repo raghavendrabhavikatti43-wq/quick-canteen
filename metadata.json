@@ -1,0 +1,6 @@
+{
+  "name": "Quick Canteen",
+  "description": "An AI-powered smart campus dining and live order tracking dashboard with real-time assistant, smart filters, and live delivery status.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
